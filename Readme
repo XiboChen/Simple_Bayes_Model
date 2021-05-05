@@ -3,5 +3,3 @@ Steps: 1. run 'make' to compile the code
 
 Output: (train dataset) TP FN FP TN
 	(test dataset)  TP FN FP TN
-
-for more implementation details, you can read my report.
